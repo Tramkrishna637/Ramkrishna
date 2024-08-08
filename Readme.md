@@ -3,6 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ramkrishna tiwari</h1>
 <h3 align="center">A passionate developer from India</h3>
 <h3>hello github</h3>
+hello
  <img src = https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif width="500" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rtrj05&label=Profile%20views&color=0e75b6&style=flat" alt="rtrj05" /> </p>
